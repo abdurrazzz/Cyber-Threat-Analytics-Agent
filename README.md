@@ -1,10 +1,10 @@
-# Censys Data Summarization Agent
+# Cyber Data Summarization Agent
 
 An AI-powered full-stack application that analyzes and summarizes Censys host data, providing actionable security insights for SOC analysts, security engineers, and IT administrators.
 
 ## 🎯 Project Overview
 
-This application leverages Large Language Models (LLMs) to automatically analyze cybersecurity host data from Censys, identifying vulnerabilities, malware, and security risks. It provides three levels of analysis (Brief, Detailed, Technical) tailored to different audiences.
+This application leverages Large Language Models (LLMs) to automatically analyze cybersecurity host data, identifying vulnerabilities, malware, and security risks. It provides three levels of analysis (Brief, Detailed, Technical) tailored to different audiences.
 
 ### Key Features
 
@@ -463,12 +463,10 @@ MIT License - feel free to use this project for learning and development.
 ## 👤 Author
 
 Abdur Razzaq
-- **Project**: Censys 2026 Summer Internship Take-Home Exercise
 - **Date**: January 2025
 
 ## 🙏 Acknowledgments
 
-- Censys for providing the dataset and project opportunity
 - Groq for providing fast, free LLM inference
 - OpenSSH, Nginx, and other open-source projects whose vulnerabilities appear in the dataset
 
