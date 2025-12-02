@@ -1,6 +1,6 @@
 # Cyber Data Summarization Agent
 
-An AI-powered full-stack application that analyzes and summarizes Censys host data, providing actionable security insights for SOC analysts, security engineers, and IT administrators.
+An AI-powered full-stack application that analyzes and summarizes Cybersecurity host data, providing actionable security insights for SOC analysts, security engineers, and IT administrators.
 
 ## 🎯 Project Overview
 
